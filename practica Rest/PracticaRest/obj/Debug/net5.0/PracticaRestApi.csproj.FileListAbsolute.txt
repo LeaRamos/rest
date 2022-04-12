@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\web 3\practica Rest\PracticaRest\obj\Debug\net5.0\PracticaRestApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\web 3\practica Rest\PracticaRest\obj\Debug\net5.0\PracticaRestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\web 3\practica Rest\PracticaRest\obj\Debug\net5.0\PracticaRestApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\web 3\practica Rest\PracticaRest\obj\Debug\net5.0\PracticaRestApi.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\web 3\practica Rest\PracticaRest\obj\Debug\net5.0\PracticaRestApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\web 3\practica Rest\PracticaRest\obj\Debug\net5.0\PracticaRestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\web 3\practica Rest\PracticaRest\obj\Debug\net5.0\PracticaRestApi.MvcApplicationPartsAssemblyInfo.cache
